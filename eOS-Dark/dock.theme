@@ -1,0 +1,39 @@
+# eOS Dark - A dark theme for Plank
+#
+# Author:       Korbs Studio
+# Repository:   https://github.com/korbsstudio/eos-dark-plank-theme
+# License:      MIT
+
+[PlankTheme]
+TopRoundness=5
+BottomRoundness=0
+LineWidth=0
+OuterStrokeColor=23;;23;;23;;0
+FillStartColor=45;;45;;45;;225
+FillEndColor=50;;50;;50;;255
+InnerStrokeColor=45;;45;;45;;0
+
+[PlankDockTheme]
+HorizPadding=1
+TopPadding=-6.5
+BottomPadding=1.5
+ItemPadding=3
+IndicatorSize=4
+IconShadowSize=2
+UrgentBounceHeight=1.6666666666666667
+LaunchBounceHeight=0.625
+FadeOpacity=1
+ClickTime=300
+UrgentBounceTime=600
+LaunchBounceTime=600
+ActiveTime=200
+SlideTime=200
+FadeTime=250
+HideTime=150
+GlowSize=0
+GlowTime=100
+GlowPulseTime=100
+UrgentHueShift=150
+ItemMoveTime=150
+CascadeHide=true
+BadgeColor=0;;0;;0;;0
