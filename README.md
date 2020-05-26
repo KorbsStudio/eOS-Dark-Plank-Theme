@@ -1,9 +1,4 @@
-<h1 align="center">eOS Dark</h1>
-
-<p align="center">
-<br>
-<img src="https://i.imgur.com/8V7A8qo.png">
-</p>
+#eOS Dark
 
 ## Install
 
